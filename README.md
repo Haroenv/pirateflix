@@ -31,7 +31,7 @@ $ pirateflix --help
 
 ```sh
 $ pirateflix # will open movie wizard
-$ pirateflix --search="Interstellar" # will permorf a search
+$ pirateflix --search="Interstellar" # will perform a search
 ```
 
 ## Overview
